@@ -6,6 +6,6 @@ Some description!
 
 Watch tutorial on Youtube.
 
-##Local Developement
+## Local Developement
 
 1. Open index.html in your browser.
